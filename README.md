@@ -9,7 +9,6 @@ This repository contains a simple Retrieval Augmented Generation (RAG) system de
 * [Technologies Used](#technologies-used)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Course Content Overview](#course-content-overview)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
